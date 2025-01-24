@@ -1,0 +1,105 @@
+.button1{
+   cursor: pointer; 
+   /* margin-left: 90px; */
+   /* margin-top: 20px; */
+   margin-bottom: 20px;
+   
+}
+.image1:hover{
+    border: solid;
+    border-color: rgb(233, 13, 13);
+    border-width: 3px;
+}
+.image1{
+    margin-left: 15px;
+}
+.image2{
+    margin-left: 15px;
+}
+.image3{
+    margin-left: 15px;
+}
+.image2:hover{
+    border: solid;
+    border-color: rgb(233, 13, 13);
+    border-width: 3px;
+}
+.image3:hover{
+    border: solid;
+    border-color: rgb(233, 13, 13);
+    border-width: 3px;
+}
+.button2{
+   cursor: pointer; 
+   /* margin-left: 90px;
+   margin-top: 20px;
+   margin-bottom: 20px; */
+
+}
+.button3{
+   cursor: pointer; 
+   /* margin-left: 90px;
+   margin-top: 20px;
+   margin-bottom: 20px; */
+
+}
+.rock{
+    /* cursor: pointer; */
+    margin-left: 70px;
+    align-items: center;
+
+}
+.paper{
+    /* cursor: pointer; */
+    margin-left: 70px;
+    align-items: center;
+
+}
+.scissor{
+    /* cursor: pointer; */
+    margin-left: 70px;
+    align-items: center;
+
+}
+.rockimage{
+    margin-left: 50px;
+    /* background-color: aqua; */
+    display: none;
+}
+.paperimage{
+    margin-left: 50px;
+    display: none;
+}
+.scissorimage{
+    margin-left: 50px;
+    display: none;
+}
+.won{
+    text-align: center;
+    margin-left: 70px;
+    display: none;
+
+}
+.lost{
+    text-align: center;
+    margin-left: 70px;
+    display: none;
+
+}
+.draw{
+    text-align: center;
+    margin-left: 70px;
+    display: none;
+
+}
+.lockbutton{
+    font-size: 25px;
+    margin-left:300px ;
+    border: solid;
+    cursor: pointer;
+}
+.lockbutton:hover{
+    background-color: black;
+    color:#FFF
+    
+}
